@@ -2,7 +2,7 @@
 # Superstore Sales Dashboard 📊
 
 <h1>Project Description 🔍 </h1>
-Project Description
+
 This project involves creating a comprehensive sales dashboard for Superstore Giant. The goal is to provide business insights to understand which products, regions, categories to target or avoid, based on sales and profitability data. 🔍📈
 
 
