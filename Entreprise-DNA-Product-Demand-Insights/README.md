@@ -10,3 +10,4 @@ PowerBI Desktop, DAX, Repoting
 
 🔮 The culmination? Presenting 'Product Demand Insights' – a dynamic, visually engaging dashboard. Feel free to leave your feedback.
 
+![Entreprise-DNA-Product-Demand-Insights](https://github.com/user-attachments/assets/4b584b09-2035-40ef-8029-ad31f54cf6e8)
