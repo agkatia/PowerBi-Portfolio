@@ -1,6 +1,4 @@
-# -Entreprise-DNA-Product-Demand-Insights
-PowerBI Desktop, DAX, Repoting
-
+<H1> Entreprise DNA : Product Demand Insights 💡</H1>
 
 🚀 Excited to share my latest achievement in data analytics! 📊 Just wrapped up an insightful course led by Sam McKay, CFA, through Enterprise DNA, diving deep into Power BI's potential. 💡
 
